@@ -1,0 +1,46 @@
+[14:13:31.720] [INFO   ] thread bguspl.set.Main.main() starting.
+[14:13:31.720] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:13:31.720] [SEVERE ] configuration file was loaded from resources directory.
+[14:13:32.153] [INFO   ] thread dealer starting.
+[14:13:32.154] [INFO   ] thread dealer starting.
+[14:13:32.155] [SEVERE ] updating countdown to 60000
+[14:13:32.658] [SEVERE ] updating countdown to 59497
+[14:13:32.767] [SEVERE ] placing card 77 in slot 0
+[14:13:32.877] [SEVERE ] placing card 69 in slot 1
+[14:13:32.986] [SEVERE ] placing card 20 in slot 2
+[14:13:33.096] [SEVERE ] placing card 50 in slot 3
+[14:13:33.206] [SEVERE ] placing card 31 in slot 4
+[14:13:33.313] [SEVERE ] placing card 59 in slot 5
+[14:13:33.423] [SEVERE ] placing card 42 in slot 6
+[14:13:33.527] [SEVERE ] placing card 62 in slot 7
+[14:13:33.636] [SEVERE ] placing card 34 in slot 8
+[14:13:33.746] [SEVERE ] placing card 37 in slot 9
+[14:13:33.857] [SEVERE ] placing card 7 in slot 10
+[14:13:33.966] [SEVERE ] placing card 41 in slot 11
+[14:13:33.966] [SEVERE ] updating countdown to 58189
+[14:13:34.970] [SEVERE ] updating countdown to 57185
+[14:13:34.970] [SEVERE ] updating countdown to 57185
+[14:13:35.984] [SEVERE ] updating countdown to 56171
+[14:13:35.984] [SEVERE ] updating countdown to 56171
+[14:13:36.986] [SEVERE ] updating countdown to 55169
+[14:13:36.986] [SEVERE ] updating countdown to 55169
+[14:13:38.000] [SEVERE ] updating countdown to 54155
+[14:13:38.000] [SEVERE ] updating countdown to 54155
+[14:13:39.002] [SEVERE ] updating countdown to 53153
+[14:13:39.002] [SEVERE ] updating countdown to 53153
+[14:13:40.015] [SEVERE ] updating countdown to 52140
+[14:13:40.015] [SEVERE ] updating countdown to 52140
+[14:13:41.029] [SEVERE ] updating countdown to 51126
+[14:13:41.029] [SEVERE ] updating countdown to 51126
+[14:13:42.044] [SEVERE ] updating countdown to 50111
+[14:13:42.044] [SEVERE ] updating countdown to 50111
+[14:13:43.059] [SEVERE ] updating countdown to 49096
+[14:13:43.059] [SEVERE ] updating countdown to 49096
+[14:13:44.062] [SEVERE ] updating countdown to 48093
+[14:13:44.062] [SEVERE ] updating countdown to 48093
+[14:13:45.074] [SEVERE ] updating countdown to 47081
+[14:13:45.074] [SEVERE ] updating countdown to 47081
+[14:13:46.089] [SEVERE ] updating countdown to 46066
+[14:13:46.089] [SEVERE ] updating countdown to 46066
+[14:13:46.534] [SEVERE ] exit button pressed
+[14:13:46.534] [SEVERE ] disposing of user interface elements

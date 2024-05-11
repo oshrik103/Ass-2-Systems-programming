@@ -1,0 +1,39 @@
+[13:40:13.073] [INFO   ] thread bguspl.set.Main.main() starting.
+[13:40:13.075] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[13:40:13.076] [SEVERE ] configuration file was loaded from resources directory.
+[13:40:13.547] [INFO   ] thread dealer starting.
+[13:40:13.548] [INFO   ] thread dealer starting.
+[13:40:13.549] [SEVERE ] updating countdown to 60000
+[13:40:13.658] [SEVERE ] placing card 66 in slot 0
+[13:40:13.763] [SEVERE ] placing card 36 in slot 1
+[13:40:13.874] [SEVERE ] placing card 1 in slot 2
+[13:40:13.980] [SEVERE ] placing card 49 in slot 3
+[13:40:14.091] [SEVERE ] placing card 7 in slot 4
+[13:40:14.196] [SEVERE ] placing card 11 in slot 5
+[13:40:14.308] [SEVERE ] placing card 43 in slot 6
+[13:40:14.411] [SEVERE ] placing card 72 in slot 7
+[13:40:14.524] [SEVERE ] placing card 45 in slot 8
+[13:40:14.626] [SEVERE ] placing card 12 in slot 9
+[13:40:14.740] [SEVERE ] placing card 38 in slot 10
+[13:40:14.856] [SEVERE ] placing card 29 in slot 11
+[13:40:15.488] [SEVERE ] exit button pressed
+[13:40:15.871] [SEVERE ] updating countdown to 57678
+[13:40:15.871] [SEVERE ] updating countdown to 57678
+[13:40:15.872] [SEVERE ] updating countdown to 57677
+[13:40:15.987] [SEVERE ] removing card from slot 0
+[13:40:16.102] [SEVERE ] removing card from slot 1
+[13:40:16.204] [SEVERE ] removing card from slot 2
+[13:40:16.317] [SEVERE ] removing card from slot 3
+[13:40:16.419] [SEVERE ] removing card from slot 4
+[13:40:16.535] [SEVERE ] removing card from slot 5
+[13:40:16.651] [SEVERE ] removing card from slot 6
+[13:40:16.753] [SEVERE ] removing card from slot 7
+[13:40:16.867] [SEVERE ] removing card from slot 8
+[13:40:16.969] [SEVERE ] removing card from slot 9
+[13:40:17.084] [SEVERE ] removing card from slot 10
+[13:40:17.199] [SEVERE ] removing card from slot 11
+[13:40:17.201] [SEVERE ] announcing winner(s): player 1, player 2
+[13:40:17.206] [SEVERE ] disposing of user interface elements
+[13:40:17.232] [INFO   ] thread dealer terminated.
+[13:40:17.232] [SEVERE ] thanks for playing... it was fun!
+[13:40:17.234] [INFO   ] thread bguspl.set.Main.main() terminated.

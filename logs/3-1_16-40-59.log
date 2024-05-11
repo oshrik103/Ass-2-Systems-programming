@@ -1,0 +1,77 @@
+[16:40:59.826] [INFO   ] thread main starting.
+[16:40:59.836] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[16:40:59.838] [SEVERE ] configuration file was loaded from resources directory.
+[16:41:00.373] [INFO   ] thread dealer starting.
+[16:41:00.373] [INFO   ] thread dealer starting.
+[16:41:00.375] [SEVERE ] updating countdown to 60000
+[16:41:00.375] [INFO   ] thread Thread-0 starting.
+[16:41:00.375] [INFO   ] thread Thread-1 starting.
+[16:41:00.877] [SEVERE ] updating countdown to 59498
+[16:41:00.987] [SEVERE ] placing card 59 in slot 0
+[16:41:01.095] [SEVERE ] placing card 41 in slot 1
+[16:41:01.204] [SEVERE ] placing card 3 in slot 2
+[16:41:01.306] [SEVERE ] placing card 53 in slot 3
+[16:41:01.414] [SEVERE ] placing card 80 in slot 4
+[16:41:01.521] [SEVERE ] placing card 19 in slot 5
+[16:41:01.630] [SEVERE ] placing card 66 in slot 6
+[16:41:01.733] [SEVERE ] placing card 38 in slot 7
+[16:41:01.841] [SEVERE ] placing card 52 in slot 8
+[16:41:01.949] [SEVERE ] placing card 16 in slot 9
+[16:41:02.059] [SEVERE ] placing card 56 in slot 10
+[16:41:02.169] [SEVERE ] placing card 26 in slot 11
+[16:41:02.175] [SEVERE ] updating countdown to 58200
+[16:41:03.178] [SEVERE ] updating countdown to 57197
+[16:41:03.180] [SEVERE ] updating countdown to 57195
+[16:41:04.194] [SEVERE ] updating countdown to 56181
+[16:41:04.196] [SEVERE ] updating countdown to 56179
+[16:41:04.314] [SEVERE ] key 65 was pressed by player 1
+[16:41:04.315] [SEVERE ] player 1 placing token on slot 4
+[16:41:04.481] [SEVERE ] key 83 was pressed by player 1
+[16:41:04.481] [SEVERE ] player 1 placing token on slot 5
+[16:41:04.561] [SEVERE ] key 68 was pressed by player 1
+[16:41:04.561] [SEVERE ] player 1 placing token on slot 6
+[16:41:05.208] [SEVERE ] updating countdown to 55167
+[16:41:05.208] [SEVERE ] setting player 1 freeze to 3000
+[16:41:05.209] [SEVERE ] setting player 1 freeze to 2999
+[16:41:05.210] [SEVERE ] updating countdown to 55165
+[16:41:05.210] [SEVERE ] setting player 1 freeze to 2998
+[16:41:05.724] [SEVERE ] updating countdown to 54651
+[16:41:05.724] [SEVERE ] setting player 1 freeze to 2484
+[16:41:05.725] [SEVERE ] updating countdown to 54650
+[16:41:05.725] [SEVERE ] setting player 1 freeze to 2483
+[16:41:05.913] [SEVERE ] key 73 was pressed by player 2
+[16:41:05.913] [SEVERE ] player 2 placing token on slot 1
+[16:41:06.097] [SEVERE ] key 79 was pressed by player 2
+[16:41:06.098] [SEVERE ] player 2 placing token on slot 2
+[16:41:06.234] [SEVERE ] updating countdown to 54141
+[16:41:06.234] [SEVERE ] setting player 1 freeze to 1974
+[16:41:06.235] [SEVERE ] updating countdown to 54140
+[16:41:06.235] [SEVERE ] setting player 1 freeze to 1973
+[16:41:06.258] [SEVERE ] key 80 was pressed by player 2
+[16:41:06.258] [SEVERE ] player 2 placing token on slot 3
+[16:41:06.746] [SEVERE ] updating countdown to 53629
+[16:41:06.746] [SEVERE ] setting player 1 freeze to 1462
+[16:41:06.747] [SEVERE ] setting player 2 freeze to 3000
+[16:41:06.747] [SEVERE ] setting player 1 freeze to 1461
+[16:41:06.748] [SEVERE ] setting player 2 freeze to 2999
+[16:41:06.749] [SEVERE ] updating countdown to 53626
+[16:41:06.750] [SEVERE ] setting player 1 freeze to 1458
+[16:41:06.750] [SEVERE ] setting player 2 freeze to 2997
+[16:41:07.258] [SEVERE ] updating countdown to 53117
+[16:41:07.259] [SEVERE ] setting player 1 freeze to 949
+[16:41:07.259] [SEVERE ] setting player 2 freeze to 2488
+[16:41:07.260] [SEVERE ] updating countdown to 53115
+[16:41:07.261] [SEVERE ] setting player 1 freeze to 947
+[16:41:07.261] [SEVERE ] setting player 2 freeze to 2486
+[16:41:07.770] [SEVERE ] updating countdown to 52605
+[16:41:07.771] [SEVERE ] setting player 1 freeze to 437
+[16:41:07.771] [SEVERE ] setting player 2 freeze to 1976
+[16:41:07.773] [SEVERE ] updating countdown to 52602
+[16:41:07.774] [SEVERE ] setting player 1 freeze to 434
+[16:41:07.774] [SEVERE ] setting player 2 freeze to 1973
+[16:41:08.288] [SEVERE ] updating countdown to 52087
+[16:41:08.288] [SEVERE ] setting player 1 freeze to 0
+[16:41:08.290] [INFO   ] thread dealer terminated.
+[16:41:13.305] [SEVERE ] thanks for playing... it was fun!
+[16:41:13.305] [INFO   ] thread main terminated.
+[16:41:13.306] [SEVERE ] disposing of user interface elements

@@ -1,0 +1,58 @@
+BONUS CHALLENGE FORM
+--------------------
+
+For each bonus challenge you have implemented, please replace the sentence "We are not entitled to this bonus."
+with a short description of:
+
+1. How it was implemented in your code
+2. Where it was used (in which class methods).
+3. How you tested that it is working correctly.
+
+--------------------
+
+1. Fully supporting all configuration fields and avoiding the use of magic numbers
+
+A.
+we simply used all of the varribles that were defined in the config file in each place that we needed to use them instead of using magic
+numbers, about the hints varrible we printed the hints to the console (using the hints method) in the placeCardsOnTable method,
+only if the table has changed and if the hints boolean was true 
+
+B. configurations like TurnTimeoutSeconds,TurnTimeoutWarningSeconds,PointFreezeSeconds,PenaltyFreezeSeconds were mostly used in
+updateTimerDisplay (dealer), sleepUntilWokenOrTimeout (dealer), point (dealer and player), penalty (dealer and player).
+hints was used in  placeCardsOnTable (dealer). TableDelaySeconds was used in placeCard and removeCard (table).
+
+C. we tested it by changing those values in the config properties file, and checking if the game's settings and ui were changed
+respectively.
+--------------------
+
+2. Terminating all threads (that you created) gracefully and in reverse order to the order they were created in.
+
+A. 
+we created only the players' threads in the run of dealer in the order of their ids in the player array,
+and we used the player terminate method to interrupt each of those in the dealer terminate method, going through the player array
+in a reverse order this time to destroy the players' threads in reverse order 
+
+B. 
+creating the threads - in the run of dealer
+terminating the threads - the terminate method of dealer called the terminate method of player that interrupted the thread.
+
+c.
+We saw that all threads were indeed terminated in the log, even though it does not print it
+in the reverse order accurately because we know that the scheduler might stop one thread's run and move to another one
+before that the destroy message was printed to the log 
+--------------------
+
+3. Handling the config.turnTimeoutMillis value as follows:
+config.turnTimeoutMillis < 0: display nothing.
+config.turnTimeoutMillis = 0: display a timer since the last action (reshuffle or set collected).
+Note: in modes without a countdown timer the dealer must ensure there is always at least one legal set on the table.
+
+We are not entitled to this bonus.
+
+--------------------
+
+4. Making sure that the threads do not wake up unless some actual job needs to be done (e.g., a value needs to be
+changed on the display, key input needs to be handled, etc.) and the only threads created by you are:
+1 thread per player + 1 additional thread for non-human players.
+
+We are not entitled to this bonus.
